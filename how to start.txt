@@ -1,0 +1,3 @@
+first start apache and mysql from xamp app
+second type localhost/quest1 on chrome
+that's all
